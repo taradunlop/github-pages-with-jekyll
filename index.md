@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Tara Dunlop"
 ---
 
-I'm glad you are here. I plan to talk about ...
+What I've been doing ...
