@@ -1,11 +1,13 @@
-title: Tara Dunlop
+title: Learning Github Pages with Jekyll
 author: Tara Dunlop
 email: your-email@domain.com
-description: what i've been doing: training and certifications
+description: Learning Github Pages with Jekyll
 theme: minima
+plugins:
+  - jekyll-feed
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: TaraNotChizuye # DO NOT include the @ character, or else the build will fail!
+github_username:  taradunlop # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
