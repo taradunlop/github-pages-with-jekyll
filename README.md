@@ -11,3 +11,5 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+
+To view the finished demo site, head over [here](https://taradunlop.github.io/github-pages-with-jekyll/).
